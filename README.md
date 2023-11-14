@@ -38,3 +38,12 @@ Translate the file to your local language and make a PR
 ExplorePi is licensed under a PiOS license. See the
 [LICENSE](https://github.com/pi-apps/PiOS/blob/main/LICENSE) file
 for details.
+Phoenix Nirvana
+One faction, one world，one faction,one love
+- I’m a student
+- I’m a pioneer in the Chinese region
+- The Pi@17385819581 of China
+- 
+
+https://github.com/17385819581/ExplorePi/assets/136985670/e153b9aa-72dd-496c-8c8d-353a08faab56
+
